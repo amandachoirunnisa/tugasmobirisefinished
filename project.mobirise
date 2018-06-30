@@ -88,7 +88,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.7.6",
-    "uniqCompNum": 92,
+    "uniqCompNum": 93,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png"
   },
@@ -970,21 +970,18 @@
             ".mbr-text, blockquote": {
               "color": "#767676"
             },
-            "SPAN": {
-              "color": "#ffffff"
-            },
             "B": {
               "color": "#ffffff"
             }
           },
           "_name": "content2",
           "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#032f55\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><b>“Jadi cowok di cheerleader harus bangga banget, karena satu you are more than an atlet karena kamu juga sebagai entertain , sebagai sportman, cowok yang sport, kalo kamu gapunya fisik yang bagus gapunya mental yang bagus kamu gaakan bisa jadi cheerleader,” <span style=\"font-style: normal;\">ungkap Annie saat ditanya tentang adanya laki – laki yang ragu menjadi cheers.</span></b></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qWs6OHG2su",
+          "_cid": "qWs7tibOEs",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "content2-2j"
+          "_anchor": "content2-2k"
         },
         {
           "_styles": {
